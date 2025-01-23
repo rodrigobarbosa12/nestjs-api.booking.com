@@ -25,7 +25,7 @@ export class BookingService {
     },
     {
       id: 3,
-      name: 'Family Suite asdds',
+      name: 'Family Suite',
       capacity: 4,
       price: 250,
       reviews: 15,
